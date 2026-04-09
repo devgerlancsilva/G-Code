@@ -1,3 +1,8 @@
+<div align="center">
+ <h1>🛡️ G-Code - Gerador de Senhas Seguras</h1>
+  <p>Uma ferramenta moderna, rápida e elegante para a geração de senhas altamente seguras.</p>
+</div>
+
 # ✨ Funcionalidades
 
 - **Geração Personalizável:** Escolha o comprimento da senha (de 6 a 64 caracteres) e quais tipos de caracteres incluir (Maiúsculas, Minúsculas, Números e Símbolos).
