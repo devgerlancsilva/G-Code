@@ -28,7 +28,7 @@
    ```bash
    npm install
    ```
-3. *(Opcional)* Se for usar as funções da API do Gemini no futuro, copie `.env.example` para `.env`.
+3. *(Opcional)* Se for usar as funções da API no futuro, copie `.env.example` para `.env`.
 4. **Inicie o servidor de desenvolvimento:**
    ```bash
    npm run dev
