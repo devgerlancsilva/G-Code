@@ -1,12 +1,4 @@
-<div align="center">
-  <img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-  <h1>🛡️ G-Code - Gerador de Senhas Seguras</h1>
-  <p>Uma ferramenta moderna, rápida e elegante para a geração de senhas altamente seguras.</p>
-</div>
-
-<br/>
-
-## ✨ Funcionalidades
+# ✨ Funcionalidades
 
 - **Geração Personalizável:** Escolha o comprimento da senha (de 6 a 64 caracteres) e quais tipos de caracteres incluir (Maiúsculas, Minúsculas, Números e Símbolos).
 - **Medidor de Força:** Feedback visual imediato dizendo se sua senha é fraca, média ou forte.
@@ -22,7 +14,7 @@
 - **Tailwind CSS v4** para a estilização extrema
 - **Lucide React** para ícones otimizados
 
-## 🛠️ Como executar localmente
+### 🛠️ Como executar localmente
 
 **Pré-requisitos:** Node.js instalado na sua máquina.
 
