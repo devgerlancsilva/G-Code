@@ -3,7 +3,7 @@
   <p>Uma ferramenta moderna, rápida e elegante para a geração de senhas altamente seguras.</p>
 </div>
 
-# ✨ Funcionalidades
+# ✨ Funcionalidades...
 
 - **Geração Personalizável:** Escolha o comprimento da senha (de 6 a 64 caracteres) e quais tipos de caracteres incluir (Maiúsculas, Minúsculas, Números e Símbolos).
 - **Medidor de Força:** Feedback visual imediato dizendo se sua senha é fraca, média ou forte.
@@ -12,14 +12,14 @@
 - **Copy & Paste Simplificado:** Copie qualquer senha para a sua área de transferência com o clique de um botão.
 - **Design Premium:** Interface linda pensada na melhor experiência de usuário, contando com efeitos glassmorphism e cores vibrantes.
 
-## 🚀 Tecnologias Utilizadas
+## 🚀 Tecnologias Utilizadas...
 
 - **React.js** com TypeScript
 - **Vite** como bundler principal
 - **Tailwind CSS v4** para a estilização extrema
 - **Lucide React** para ícones otimizados
 
-### 🛠️ Como executar localmente
+### 🛠️ Como executar localmente...
 
 **Pré-requisitos:** Node.js instalado na sua máquina.
 
